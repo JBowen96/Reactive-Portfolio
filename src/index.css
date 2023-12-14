@@ -414,7 +414,7 @@
   
   .download-intro p {
     line-height: 1.7;
-    color: #0E5259;
+    color: #012A4A;
     width: 95%;
     font-size: 30px;
     margin: 0 auto;
@@ -453,7 +453,7 @@
   .article {
     margin: 10px;
     margin-bottom: 1em;
-    background-color: #B4D9CB;
+    background-color: #A9D6E5;
   }
   
   
@@ -474,12 +474,12 @@
     cursor: pointer;
     list-style: none;
     font-size: 40px;
-    color: #0E5259;
+    color: #012A4A;
     display: inline-block;
   }
   
   .download-logo:hover {
-    color: #328C83;
+    color: #2C7DA0;
     opacity: 0.5;
     transition: .5s ease;
   }
@@ -504,13 +504,13 @@
   } */
   
   .column-title {
-    color: #285950;
+    color: #012A4A;
     font-size: 25px;
     font-weight: bold;
   }
   
   .column-text {
-    color: #285950;
+    color: #013A63;
     font-size: 20px;
     padding: 5px;
   
