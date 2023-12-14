@@ -12,7 +12,7 @@
   }
   
   #root {
-    min-height: 100vh;
+    min-height: 20vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -121,7 +121,7 @@
     flex-wrap: wrap;
     align-items: flex-start;
     background-attachment: fixed;
-    background-position: 80%;
+    background-position: 50%;
   
   }
   
@@ -131,7 +131,7 @@
   .hero-cta {
     width: 35%;
     text-align: center;
-    margin: 3.5%;
+    margin: .5%;
     color: #A9D6E5;
     font-size: 18px;
     line-height: 1.2;
@@ -210,6 +210,8 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
   }
   
   .contact-form {
@@ -311,7 +313,7 @@
   /*Start Jobs section*/
   
   .jobs {
-    background: #0E5259;
+    background: #89C2D9;
   
   }
   
@@ -324,12 +326,12 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid #D5F2EA;
+    border-bottom: 1px solid #013A63;
   }
   
   
   .job:nth-child(even) {
-    border-bottom: 1px solid #D5F2EA;
+    border-bottom: 1px solid #013A63;
   }
   
   .job:last-child {
@@ -339,7 +341,7 @@
   .job-text h4 {
     font-size: 26px;
     line-height: 1.5;
-    color: #75BFB2;
+    color: #012A4A;
   }
   
   
@@ -351,9 +353,9 @@
   }
   
   .job-img {
-    flex: 1 12%;
+    flex: 1 35%;
     margin-right: 250px;
-    opacity: 0.5;
+    opacity: 0.6;
     filter: alpha(opacity=40);
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
@@ -384,7 +386,7 @@
   
   .job-img img:hover {
     /*    transition: .5s ease-in-out;*/
-    border: 5px solid #ACF2E5;
+    border: 5px solid #01497C;
     transform: scale(1.1);
   }
   
@@ -398,7 +400,7 @@
   }
   
   .job-text p {
-    color: #D5F2EA;
+    color: #012A4A;
     font-size: 18px;
   }
   
@@ -538,6 +540,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 20px;
   
   
   }
@@ -605,7 +608,7 @@
   }
   
   .secondary-border {
-    border-color: #A9D6E5;
+    border-color: #2A6F97;
   }
   
   label {
