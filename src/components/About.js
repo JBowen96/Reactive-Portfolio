@@ -1,28 +1,43 @@
 import React from "react";
-import profileImage from "../../assets/large/Profile/Profile_Pic.png";
+import profileImage from "../assets/Fallout_Avatar - Copy.jpg";
+import "../index.css";
+
 function About() {
-    return (
-        <section id="about-me" className="my-5 intro">
-            <div class="flex-row">
-                <h1 id="about" className="section-title primary-border">
-                    About Me
-                </h1>
-            </div>
-            <div className="flex-row">
-                <div class="intro-info">
-                    <div class="intro-img">
-                        <img src={profileImage} style={{ width: "100%" }} alt="profile" />
-                    </div>
-                    <p>
-                        Greetings! I'm Lindsey Martin, a 32-year-old residing in the vibrant city of Los Angeles. I hold a distinguished B.A. in Psychology with a specialization in Neuroscience from the esteemed University of San Francisco, where I completed my studies in 2016. Although I originally migrated to San Francisco for my college education, I found the city so captivating that I decided to call it my home even after graduation.
-                    </p>
-                    <p>However, with the advent of the COVID pandemic, I found myself oscillating between the bustling streets of Los Angeles and the familiar avenues of San Francisco. This transition offered me the wonderful opportunity to reconnect with my family, who resides in Southern California, and to relish their company during these uncertain times.</p>
-                    <p>Beyond my professional commitments, I am an ardent advocate of an active lifestyle. I take immense pleasure in embarking on leisurely strolls accompanied by my beloved canines. Additionally, I relish partaking in brief hiking expeditions with my cherished friends. Engaging in physical exercise brings me great joy, and I diligently dedicate time every day to nurture my well-being. My exercise regimen encompasses a diverse array of activities, including pilates, weight training, yoga, and invigorating high-intensity interval training (HIIT) sessions.</p>
-                    <p>By embracing an active and balanced lifestyle, I strive to make the most of my time outside of work, enjoying the wonders of both nature and the thriving communities that surround me.</p>
-                </div>
-            </div>
-        </section>
-    );
+  return (
+    <section id="about-me" className="my-5 intro">
+      <div className="flex-row">
+        <h1 id="about" className="section-title primary-border">
+          About Me
+        </h1>
+      </div>
+      <div className="flex-row">
+        <div className="intro-info">
+          <div className="intro-img">
+            <img src={profileImage} style={{ width: "100%" }} alt="profile" />
+          </div>
+          <div>
+            <p>
+              Howdy! My name is Josh, and I like maps! My love of maps led me to
+              find a career in Geographic Information Systems with a BS in
+              Environmental Science, an MA in Geography and Planning,
+              certifications in GIScience and City Planning, and until now a
+              happy career manipulating the data of the world around us.
+            </p>
+            <br></br>
+            <p>
+              Unfortunately, as many things go in life, I have lost the joy in
+              this field that I once held. I have found a new love in coding,
+              and digital creation. I enjoy the aspects of Web Development that
+              allow for a creator to make inputs and see the changes right in
+              front of them; it's great! I want to move my career into the field
+              of Web Development, hoping to find a fantastic company and
+              revitalize my love of my career.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
 }
 
 export default About;

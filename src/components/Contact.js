@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 // Here we import a helper function that will check if the email is valid
-import { validateEmail } from "../../utils/helpers";
+import { validateEmail } from "../utils/helpers";
 
 function Contact() {
   // Create state variables for the fields in the form
@@ -61,12 +61,12 @@ function Contact() {
           <h3>Hello {userName}</h3>
           <p>Want to get into contact?</p>
           <address>
-            San Francisco, CA <br />
-            P: <a href="tel:951.310.5642">951.310.5642</a>
+            Raleigh, NC 
+            <br />
             <br />
             E:{" "}
-            <a href="mailto://martinlindsey87@yahoo.com">
-              martinlindsey87@yahoo.com
+            <a href="mailto://bowenpjoshua@gmail.com">
+            bowenpjoshua@gmail.com
             </a>
           </address>
           <p>
