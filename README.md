@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# JBo Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployment
+[Josh Bowen Portfolio](https://tubular-lily-9f592a.netlify.app/#portfolio)
 
-## Available Scripts
+## Description
+This is an updated portfolio for Josh Bowen utilizing React and Netlify. It serves as a display of various creations and works that support the level of work capable of the author.
 
-In the project directory, you can run:
+## Images
+About Page
+![image](https://github.com/JBowen96/Reactive-Portfolio/assets/139276635/83fed624-28aa-41b1-a27e-3a9fedf7b4ea)
 
-### `npm start`
+Portfolio Display
+![image](https://github.com/JBowen96/Reactive-Portfolio/assets/139276635/c67deb0e-0345-4b61-a2d0-4d3cdfb635cb)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Contact
+![image](https://github.com/JBowen96/Reactive-Portfolio/assets/139276635/e98c741b-88e6-45fb-8e8c-14f7b1cf2120)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Resume
+![image](https://github.com/JBowen96/Reactive-Portfolio/assets/139276635/26a780be-c194-4564-98e0-8f57222841fa)
 
-### `npm test`
+## Install
+1. Copy the repo to the local.
+2. Run `npm i` to install dependencies.
+3. Run `npm start` to run the page locally at `localhost:3000`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Possible Issues
+No issues were found, but assure that all packages are up to date.
 
-### `npm run build`
+## Author
+Josh Bowen 
+[GitHub](github.com/JBowen96)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Disclaimer
+The initial code was obtained via React's Create React App.
+Portions of the code were found via Stack Overflow and public GitHubs.
