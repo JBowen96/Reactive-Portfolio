@@ -25,11 +25,11 @@ Resume
 3. Run `npm start` to run the page locally at `localhost:3000`.
 
 ## Possible Issues
-No issues were found, but assure that all packages are up to date.
+No issues were found, but ensure that all packages are up to date.
 
 ## Author
 Josh Bowen 
-[GitHub]((https://github.com/JBowen96))
+[GitHub](https://github.com/JBowen96)
 
 ## Disclaimer
 The initial code was obtained via React's Create React App.
