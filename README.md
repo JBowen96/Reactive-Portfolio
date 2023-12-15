@@ -29,7 +29,7 @@ No issues were found, but assure that all packages are up to date.
 
 ## Author
 Josh Bowen 
-[GitHub](github.com/JBowen96)
+[GitHub]((https://github.com/JBowen96))
 
 ## Disclaimer
 The initial code was obtained via React's Create React App.
